@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 03, 2017 2351hrs
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I currently learning Python so thought building a web app with Django would be a nice chanllenge.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Today I installed Django on my pc and worked through a couple of tutorials from Youtube. Today has been a
+bit of a struggle grasping the way a website is built in Django using Python. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+I learned allot today.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Time for bed!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
