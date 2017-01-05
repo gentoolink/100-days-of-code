@@ -11,3 +11,14 @@ I learned allot today.
 
 Time for bed!
 
+#####################################
+DAY 2
+#####################################
+
+A little further with the Django project today. Brushed up on git skills.
+My work enviroment needs to be adjusted.
+Logging my progress is good. This hour was well spent!
+
+Until tomorrow OR unless I can't sleep and have to code...
+
+########################################
