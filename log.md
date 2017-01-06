@@ -22,3 +22,13 @@ Logging my progress is good. This hour was well spent!
 Until tomorrow OR unless I can't sleep and have to code...
 
 ########################################
+Day 3
+########################################
+
+I know I am putting this in late. So I will be adding an extra day at the end of the 
+challenge.
+
+I finally understand Django url patterns. It feels good to finally know how it works
+without blindly following a recipe.
+
+######################################
