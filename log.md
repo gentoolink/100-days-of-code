@@ -32,3 +32,18 @@ I finally understand Django url patterns. It feels good to finally know how it w
 without blindly following a recipe.
 
 ######################################
+Day 3.1
+######################################
+Over 90 minutes today!
+
+I needed to learn more basic Python before continuing with my web app
+projects. Started building a Telegram chat bot using Python. 
+
+I can't wait till its finished. Named it after my oldest son, Saul.
+
+This challenge has been keeping me motivated. Now I need to be more
+motivated to do the push up challenge!
+
+Until tommorow...
+
+############################################
