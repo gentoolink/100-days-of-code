@@ -47,3 +47,7 @@ motivated to do the push up challenge!
 Until tommorow...
 
 ############################################
+Day 4
+############################################
+
+Just squeaked in my hour today. 
