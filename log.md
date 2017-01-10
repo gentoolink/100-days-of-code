@@ -51,3 +51,12 @@ Day 4
 ############################################
 
 Just squeaked in my hour today. 
+
+#############################################
+DAY 6 
+#############################################
+
+Started a chatbot with PYthon. I am now working on two projects.
+Three hours of coding today!
+I feel like I accomplished something. Learing wise that is.
+I am hoping this makes up for the day i lost.
