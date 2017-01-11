@@ -60,3 +60,11 @@ Started a chatbot with PYthon. I am now working on two projects.
 Three hours of coding today!
 I feel like I accomplished something. Learing wise that is.
 I am hoping this makes up for the day i lost.
+
+############################################
+DAY 7 Jan. 10, 2016
+############################################
+
+Keeping on track now. It feels like its becoming a habit now. I have been working with
+disruptions from family and other committments. So far so good.
+
